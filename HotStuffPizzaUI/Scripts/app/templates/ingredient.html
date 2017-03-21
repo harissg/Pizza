@@ -1,0 +1,30 @@
+﻿<div class="container">
+    <div class="row">
+        <div class="col-lg-8">
+            <!--<button class="menu-button" ui-sref="pizza">Pizza</button>a-->
+            <div>
+                <div class="row">
+                    <div class="mgt10px">
+                        <div class="col-xs-4 col-md-4" data-ng-repeat="i in ig.ingredients">
+                            <a class="thumbnail">
+                                <img ng-src={{i.ImageUrl}} alt="...">
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-lg-4">
+            <div class="mgt10px accor-font">
+                <div uib-accordion-group class="panel-default" is-open="true">
+                    <uib-accordion-heading>
+                        Details
+                    </uib-accordion-heading>
+                    <ul data-ng-repeat="i in ig.ingredients">
+                        <li>{{i.Description}}</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

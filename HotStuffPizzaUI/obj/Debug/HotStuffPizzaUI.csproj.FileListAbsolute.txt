@@ -1,0 +1,6 @@
+C:\Users\Harry\Desktop\Projects\Projects\HotStuffPizza\HotStuffPizzaUI\bin\HotStuffPizzaUI.dll.config
+C:\Users\Harry\Desktop\Projects\Projects\HotStuffPizza\HotStuffPizzaUI\bin\HotStuffPizzaUI.dll
+C:\Users\Harry\Desktop\Projects\Projects\HotStuffPizza\HotStuffPizzaUI\bin\HotStuffPizzaUI.pdb
+C:\Users\Harry\Desktop\Projects\Projects\HotStuffPizza\HotStuffPizzaUI\obj\Debug\HotStuffPizzaUI.dll
+C:\Users\Harry\Desktop\Projects\Projects\HotStuffPizza\HotStuffPizzaUI\obj\Debug\HotStuffPizzaUI.pdb
+C:\Users\Harry\Desktop\Projects\Projects\HotStuffPizza\HotStuffPizzaUI\obj\Debug\HotStuffPizzaUI.csprojResolveAssemblyReference.cache
